@@ -5437,6 +5437,47 @@ husky@^0.14.3:
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
 
+hyphy-vision@2.8.0-alpha.0:
+  version "2.8.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/hyphy-vision/-/hyphy-vision-2.8.0-alpha.0.tgz#be0faea446695e82be68cbb3ae1a9d04304857ed"
+  dependencies:
+    "@fortawesome/fontawesome-free" "^5.12.1"
+    alignment.js "0.1.1"
+    bootstrap "4.x"
+    chi-squared "^1.1.0"
+    circos "^2.1.0"
+    create-react-class "^15.6.3"
+    csvexport "1.1.0"
+    d3 "3.x"
+    d3-save-svg "0.0.2"
+    express "^4.16.2"
+    file-saver "^1.3.3"
+    immutable "3.8.2"
+    in-browser-download "^1.0.0"
+    jquery "1.x"
+    jquery-ui "1.x"
+    jquery-ui-bundle "^1.11.4"
+    jquery-ui-dist "^1.12.1"
+    json-loader "^0.5.7"
+    lodash "3.x"
+    lodash.clonedeep "^4.5.0"
+    phylotree "0.1.6"
+    popper.js "^1.14.1"
+    pretty-data "^0.40.0"
+    prop-types "^15.5.10"
+    react "16"
+    react-copy-to-clipboard "^5.0.0"
+    react-dom "16"
+    react-json-view "^1.14.0"
+    react-phylotree "0.1.0"
+    react-range "^1.5.3"
+    react-router-dom "^4.2.2"
+    react-router-hash-link "^1.1.1"
+    react-scrollchor "^4.2.1"
+    save-svg-as-png "^1.2.0"
+    supervisor "^0.12.0"
+    underscore "^1.9.1"
+
 iconv-lite@0.4, iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@^0.4.5, iconv-lite@~0.4.13:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
@@ -8486,7 +8527,7 @@ react-router-dom@5:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-router-dom@^4.3.1:
+react-router-dom@^4.2.2, react-router-dom@^4.3.1:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/react-router-dom/-/react-router-dom-4.3.1.tgz#4c2619fc24c4fa87c9fd18f4fb4a43fe63fbd5c6"
   dependencies:
@@ -8560,19 +8601,19 @@ react-transition-group@^4.0.0:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
-react@^0.12.0:
-  version "0.12.2"
-  resolved "https://registry.yarnpkg.com/react/-/react-0.12.2.tgz#1c4f0b08818146eeab4f0ab39257e0aa52027e00"
-  dependencies:
-    envify "^3.0.0"
-
-react@^16.13.0, react@^16.2.0, react@^16.6.3:
+react@16, react@^16.13.0, react@^16.2.0, react@^16.6.3:
   version "16.13.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.0.tgz#d046eabcdf64e457bbeed1e792e235e1b9934cf7"
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     prop-types "^15.6.2"
+
+react@^0.12.0:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/react/-/react-0.12.2.tgz#1c4f0b08818146eeab4f0ab39257e0aa52027e00"
+  dependencies:
+    envify "^3.0.0"
 
 read-pkg-up@^1.0.1:
   version "1.0.1"

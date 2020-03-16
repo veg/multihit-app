@@ -10,7 +10,7 @@ module.exports = env => {
     devtool: "source-map",
     mode: "development",
     entry: {
-      hyphyvision: ["./src/index.js"]
+      multihit: ["./src/index.js"]
     },
     devServer: {
       contentBase: ".",
@@ -19,7 +19,7 @@ module.exports = env => {
     output: {
       path: path.resolve(__dirname, "public/"),
       filename: "[name].js",
-      library: "hyphyVision"
+      library: "multihit"
     },
     optimization: {
       splitChunks: {
