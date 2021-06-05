@@ -5437,9 +5437,9 @@ husky@^0.14.3:
     normalize-path "^1.0.0"
     strip-indent "^2.0.0"
 
-hyphy-vision@2.8.0-alpha.0:
-  version "2.8.0-alpha.0"
-  resolved "https://registry.yarnpkg.com/hyphy-vision/-/hyphy-vision-2.8.0-alpha.0.tgz#be0faea446695e82be68cbb3ae1a9d04304857ed"
+hyphy-vision@2.8.0-alpha.1:
+  version "2.8.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/hyphy-vision/-/hyphy-vision-2.8.0-alpha.1.tgz#689aade7ae41269afc07f335e1c343fb803682e0"
   dependencies:
     "@fortawesome/fontawesome-free" "^5.12.1"
     alignment.js "0.1.1"
@@ -10602,8 +10602,8 @@ write@^0.2.1:
     mkdirp "^0.5.1"
 
 ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
   dependencies:
     async-limiter "~1.0.0"
 
