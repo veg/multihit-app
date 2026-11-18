@@ -58,7 +58,7 @@ Please ensure that any entry level functions are exposed in src/library-entry.js
 8. `yarn`
 9. `node_modules/.bin/webpack`
 10. `rm -rf node_modules`
-11. Use [Resource Hacker](https://www.angusj.com/resourcehacker) to change the app icon to `images/app-icon.ico` Here's a [helpful link](https://www.howtogeek.com/75983/stupid-geek-tricks-how-to-modify-the-icon-of-an-.exe-file/) for using Resource Hacker
+11. Use [Resource Hacker](https://www.angusj.com/resourcehacker) or [Resource Cracker](https://www.pelock.com/products/resource-cracker) to change the app icon to `images/app-icon.ico` Here's a [helpful link](https://www.howtogeek.com/75983/stupid-geek-tricks-how-to-modify-the-icon-of-an-.exe-file/) for using Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 12. Hide all files exept for `HyPhy Vision.exe`, `LICENSE`, `LICENSES.chromium.html` and `version`
 
 ### Linux Desktop Application
